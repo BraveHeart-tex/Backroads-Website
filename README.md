@@ -4,4 +4,5 @@ Built with
 2. CSS(Flexbox) and 
 3. Javascript
 
-## Feel free to check out the live demo on Netlify: https://tourcompany-website.netlify.app/
+## Feel free to check out the live demo 
+You can check it out on Netlify: https://tourcompany-website.netlify.app/
